@@ -8,6 +8,6 @@
 当你的蚂蚁征服了所有空岛后，就可以去嚯嚯下片空岛群了（bushi
 # 宣传图片：
 <img width="950" alt="屏幕截图_20230204_212541" src="https://user-images.githubusercontent.com/88619170/221102568-1b4e0515-7300-4501-a230-9e126e064eef.png">
-<img width="950" alt="屏幕截图_20230204_212541" src="https://user-images.githubusercontent.com/88619170/221102537-3066c47a-4e7c-4e4c-afd4-b7a1d15dc7d9.png">
+<img width="962" alt="屏幕截图_20230205_143748" src="https://user-images.githubusercontent.com/88619170/221106379-9b998c80-4541-46df-a654-87df835a918e.png">
 
 
